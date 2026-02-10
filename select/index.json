@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "回る空うさぎ",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-10T10:14:37.861608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "回る空うさぎ",
+      "artist": "ダズビー",
+      "has_synced": true,
+      "path": "select/01_回る空うさぎ_ダズビー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "回る空うさぎ",
+      "artist": "DAZBEE",
+      "has_synced": false,
+      "path": "select/02_回る空うさぎ_DAZBEE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "回る空うさぎ",
+      "artist": "Akuya",
+      "has_synced": true,
+      "path": "select/03_回る空うさぎ_Akuya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "回る空うさぎ",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/04_回る空うさぎ_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "回る空うさぎ - Sky Passing Around, Moon Rabbit",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/05_回る空うさぎ_-_Sky_Passing_Around,_Moon_Rabbit_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "回る空うさぎ",
+      "artist": "冰兔",
+      "has_synced": false,
+      "path": "select/06_回る空うさぎ_冰兔.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "回る空うさぎ [Live]",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_回る空うさぎ_[Live]_花譜.txt"
+    }
+  ]
+}
